@@ -48,7 +48,7 @@ Processed and cleaned 2,000+ rows of sales data with VLOOKUP and PivotTables, en
 ## 🌐 Connect
 
 - [LinkedIn](https://linkedin.com/in/anshulsemwal7)
-- [Gmail](semwalanshul7377@gmail.com)
+- [Gmail]-semwalanshul7377@gmail.com
 
 ---
 
