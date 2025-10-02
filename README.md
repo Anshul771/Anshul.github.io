@@ -23,8 +23,6 @@ Transformed fragmented sales data into unified, KPI-driven reports. Reduced manu
 ### Insurance Analysis Dashboard (Power BI)
 Built secure dashboards for portfolio analysis, halving reporting time and adding sentiment analysis for actionable business decisions.
 ![Page1](Project2p1.png)
-![Page2](Project2p2.png)
-![Page3](Project2p3.png)
 
 ### UPI Transactions Trends (Power BI)
 Leveraged analytics to uncover transaction and user behavior patterns, achieving a 30% reduction in analysis time with interactive slicers and bookmarks.
