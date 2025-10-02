@@ -1,7 +1,7 @@
 #  Data Analyst · Business Analyst · Prompt Engineer · AI Solutions Consultant
 
 ## 👋 About Me
-Delhi-based Data Analyst with a passion for transforming raw information into clear, actionable insights. Experienced in building impactful dashboards and reports that empower decision-making across organizations. Always exploring new technologies and methods to optimize business processes and solve real-world challenges.
+A results-driven professional passionate about translating complex data and emerging AI technologies into clear, actionable business insights. Experienced in crafting dynamic dashboards, streamlining workflows, and designing intelligent solutions that drive strategic decisions and operational efficiency. Continuously learning and innovating to help organizations unlock greater value from their data and AI investments.
 
 ## 💻 Tech Stack
 Power BI, Advanced Excel, SQL, MySQL, Python  
