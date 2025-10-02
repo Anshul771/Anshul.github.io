@@ -1,4 +1,4 @@
-# Anshul Semwal | Data Analyst & Frontend Developer
+#  Data Analyst · Business Analyst · Prompt Engineer · AI Solutions Consultant
 
 ## 👋 About Me
 Delhi-based Data Analyst with a passion for transforming raw information into clear, actionable insights. Experienced in building impactful dashboards and reports that empower decision-making across organizations. Always exploring new technologies and methods to optimize business processes and solve real-world challenges.
