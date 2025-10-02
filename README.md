@@ -19,6 +19,7 @@ Machine Learning: Scikit-learn, Jupyter Notebook, Pandas, NumPy
 
 ### Interactive Sales Performance Report (Power BI)
 Transformed fragmented sales data into unified, KPI-driven reports. Reduced manual reporting by 45% and improved profitability for clients using advanced Power Query, DAX, and visualization techniques.
+![Page1](Project1p1.png)
 
 ### Insurance Analysis Dashboard (Power BI)
 Built secure dashboards for portfolio analysis, halving reporting time and adding sentiment analysis for actionable business decisions.
