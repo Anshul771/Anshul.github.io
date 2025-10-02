@@ -2,7 +2,4 @@ title: Anshul Semwal
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
-- name: Clean _site directory
-  run: rm -rf ./_site
-
 theme: jekyll-theme-minimal
