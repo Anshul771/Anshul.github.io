@@ -27,9 +27,11 @@ Built secure dashboards for portfolio analysis, halving reporting time and addin
 
 ### UPI Transactions Trends (Power BI)
 Leveraged analytics to uncover transaction and user behavior patterns, achieving a 30% reduction in analysis time with interactive slicers and bookmarks.
+![Page1](Project3p1.png)
 
 ### Sales Performance Dashboard (Excel)
 Processed and cleaned 2,000+ rows of sales data with VLOOKUP and PivotTables, enabling rapid analysis and facilitating real-time business insights.
+![Page1](Project4p1.png)
 
 ## 🏆 Achievements & Certifications
 
@@ -46,6 +48,7 @@ Processed and cleaned 2,000+ rows of sales data with VLOOKUP and PivotTables, en
 ## 🌐 Connect
 
 - [LinkedIn](https://linkedin.com/in/anshulsemwal7)
+- [Gmail](semwalanshul7377@gmail.com)
 
 ---
 
